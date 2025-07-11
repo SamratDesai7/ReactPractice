@@ -1,0 +1,132 @@
+✅ React in 7 Days - Daily Timetable & Topics
+
+⚡ Prerequisites:
+- HTML, CSS, JavaScript ES6+
+- Git & GitHub
+- Node.js and npm installed
+
+-------------------------------------------------------
+📅 Day 1 – React Basics + Environment Setup
+
+🎯 Goal: Understand React fundamentals and set up your first app.
+
+✅ What to Do:
+- Install Node.js and VS Code
+- Create React App using Vite or CRA
+- Understand:
+  - What is React & Why use it?
+  - JSX Syntax
+  - Components (Functional)
+  - Props & Component Reusability
+
+⏰ Time Split:
+- 2 hrs – Tutorials / Videos
+- 2 hrs – Practice (Build: `Hello React`, Pass props to components)
+
+-------------------------------------------------------
+📅 Day 2 – State, Events & Conditional Rendering
+
+🎯 Goal: Learn how React handles dynamic UI.
+
+✅ What to Do:
+- useState Hook
+- Handling Events (onClick, onChange)
+- Conditional Rendering (if, &&, ? :)
+- Lists & .map() in JSX
+
+⏰ Practice:
+- Counter App
+- Show/Hide Password App
+- Todo List (basic)
+
+-------------------------------------------------------
+📅 Day 3 – React Forms & Styling
+
+🎯 Goal: Handle user inputs and style your app.
+
+✅ What to Do:
+- Forms in React (input, textarea, select)
+- Form validation (basic)
+- Controlled vs Uncontrolled components
+- Styling Options:
+  - Inline CSS
+  - CSS Modules
+  - Tailwind CSS (optional)
+
+⏰ Practice:
+- Login/Register Form
+- Search Filter App
+
+-------------------------------------------------------
+📅 Day 4 – useEffect, Lifecycle & Fetching API
+
+🎯 Goal: Connect React to backend data sources.
+
+✅ What to Do:
+- useEffect Hook
+- Component Lifecycle (init, update, unmount)
+- Fetching data from API (fetch or axios)
+- Loader & Error handling
+
+⏰ Practice:
+- Fetch users/posts from JSONPlaceholder
+- Display API data with loading indicator
+
+-------------------------------------------------------
+📅 Day 5 – React Routing (SPA Navigation)
+
+🎯 Goal: Learn how to build multi-page React apps.
+
+✅ What to Do:
+- React Router DOM:
+  - BrowserRouter, Routes, Route
+  - Link, useNavigate
+  - 404 Page
+- Dynamic Routes with URL Params
+
+⏰ Practice:
+- Create a 3-page website (Home, About, Contact)
+- Dynamic Product Details Page
+
+-------------------------------------------------------
+📅 Day 6 – Lifting State Up, Props Drilling, useContext
+
+🎯 Goal: Learn React app architecture and basic state management.
+
+✅ What to Do:
+- Lifting State Up (pass state from parent to child)
+- Props Drilling Problem
+- useContext Hook
+- Create and use custom context
+
+⏰ Practice:
+- Theme toggler using Context API
+- Cart App using Context for global state
+
+-------------------------------------------------------
+📅 Day 7 – Final Project + Deployment
+
+🎯 Goal: Apply everything you've learned.
+
+✅ What to Do:
+- Build a small React project:
+  Ideas: Weather App, Todo App, Notes App, Quiz App, News App
+
+- Deploy it using:
+  - Vercel / Netlify / GitHub Pages
+
+-------------------------------------------------------
+🚀 Bonus Topics (Optional - After Day 7)
+
+- useRef, useReducer, Custom Hooks
+- React + Tailwind/Bootstrap UI
+- TypeScript in React
+- Redux or Zustand for state management
+- React Query or SWR for API handling
+
+-------------------------------------------------------
+📚 Suggested Playlist:
+Codevolution React Playlist:
+https://youtube.com/playlist?list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s
+
+-------------------------------------------------------
