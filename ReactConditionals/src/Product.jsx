@@ -5,9 +5,10 @@ const Product = ({
   desc = "description not given",
   features =[]
 }) => {
+  let styles = { backgroundColor : prise>30000 ?"red": ""}
   return (
     <>
-      <div className="Product">
+      <div className="Product" style={styles} >
         <h3>{title}</h3>
         <h6>{desc}</h6>
         <h5>₹ {prise}</h5>
