@@ -1,0 +1,12 @@
+.ProductCard{
+    margin: 2rem;
+    border: 2px solid white;
+    border-radius: 17px;
+    height: 11rem;
+    width: 14rem;
+}
+.Prise{
+    background-color: rgb(172, 128, 17);
+    border-radius: 0 0 14px 14px;
+    height: 1.9rem;
+}
