@@ -4,6 +4,7 @@ function ToDO() {
   let [newTask, setNewTask] = useState("");
   let addTask = () => {
     setTask([...task, newTask]);
+    setNewTask("");
   };
   let handleOnChange = (e) => {
     setNewTask(e.target.value);
