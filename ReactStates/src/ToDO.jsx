@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 function ToDO() {
-  let [task, setTask] = useState(["eat"]);
+  let [task, setTask] = useState([]);
   let [newTask, setNewTask] = useState("");
   let addTask = () => {
-    setTask([...task, task]);
+    setTask([...task, newTask]);
   };
   let handleOnChange = (e) => {
     setNewTask(e.target.value);
