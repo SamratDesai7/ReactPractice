@@ -1,17 +1,20 @@
 import React, { useState } from "react";
+import { ShowFormData } from "./ShowFormData";
 
 function Forms() {
+  const [submittedData, setSubmittedData] = useState();
   let [value, setValue] = useState({
     firstName: "",
     lastName: "",
   });
   let handleSubmit = (e) => {
     e.preventDefault();
-        setValue({
+    setSubmittedData(value);
+    setValue({
       firstName: "",
       lastName: "",
     });
-    console.log(value)
+    console.log(value);
   };
   let handleInputs = (e) => {
     setValue((cuurentVal) => {
@@ -45,6 +48,7 @@ function Forms() {
         <br />
         <button type="submit">Submit</button>
       </form>
+          {submittedData && <ShowFormData data={submittedData} />}
     </>
   );
 }
