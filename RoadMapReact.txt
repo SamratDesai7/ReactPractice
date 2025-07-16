@@ -22,7 +22,7 @@
 ⏰ Time Split:
 - 2 hrs – Tutorials / Videos
 - 2 hrs – Practice (Build: `Hello React`, Pass props to components)
-
+DONE ✅
 -------------------------------------------------------
 📅 Day 2 – State, Events & Conditional Rendering
 
@@ -38,7 +38,7 @@
 - Counter App
 - Show/Hide Password App
 - Todo List (basic)
-
+DONE ✅
 -------------------------------------------------------
 📅 Day 3 – React Forms & Styling
 
