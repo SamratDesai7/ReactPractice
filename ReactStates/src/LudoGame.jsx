@@ -20,7 +20,7 @@ export const LudoGame = () => {
           +1
         </button>
         <p>Green Moves : {moves.green} </p>
-        <button
+        <button 
           style={{ backgroundColor: "green" }}
           onClick={() => setMoves({ ...moves, green: moves.green + 1 })}
         >

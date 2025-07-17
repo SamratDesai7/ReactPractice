@@ -11,7 +11,7 @@ function App() {
     //  <LikeBtn/>
     // <LudoGame />
     // <ToDO />
-    <Forms />
+    <Forms /> 
   );
 }
 

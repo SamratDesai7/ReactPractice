@@ -21,7 +21,7 @@ function ToDO() {
       <input type="text" value={newTask} onChange={handleOnChange} />
       <button onClick={addTask}>Add</button>
       <h3>To Do Tasks</h3>
-      <hr />
+      <hr /> 
       <ul>
         {task.map((el) => (
           <li key={el.id}>
