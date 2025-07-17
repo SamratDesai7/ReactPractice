@@ -1,16 +1,3 @@
----
-
-## 🛠️ Tech Stack
-
-- **React.js** (Functional Components + Hooks)
-- **JavaScript (ES6+)**
-- **HTML5 & CSS3**
-- **Vite** (for fast development server, if used)
-- **Bootstrap / Tailwind CSS** (where applicable)
-- **React Icons** (for UI enhancement)
-- **UUID / Axios / Other npm libraries** (depending on feature)
-
----
 
 ## 📌 Features Covered
 
